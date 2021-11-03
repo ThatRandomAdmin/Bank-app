@@ -5,7 +5,7 @@ This application is supposed to ba a banking application, where you can create a
 The program is not complete just yet
 
 
-Prerequasits:
+Prerequisites:
 Access
 
 
